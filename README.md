@@ -1,0 +1,2 @@
+# pensamietocompu
+Proyecto de prueba 
